@@ -22,6 +22,7 @@ Repositorio correspondiente a la evidencia GA7-220501096-AA5-EV04.
 ## Autor
 
 ♦ Brayan Stiven Palacios Reyes
+
 ♦ Daniel Santiago Paredes Daza
 
 Tecnólogo en Análisis y Desarrollo de Software
